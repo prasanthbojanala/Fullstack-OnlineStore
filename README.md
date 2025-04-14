@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# Full Stack Online Store web application
 
 ## Description
 
