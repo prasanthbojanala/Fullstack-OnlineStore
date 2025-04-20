@@ -1,6 +1,6 @@
 module.exports = {
   app: {
-    name: Ónline Store',
+    name: 'Ónline Store',
     apiURL: `${process.env.BASE_API_URL}`,
     clientURL: process.env.CLIENT_URL
   },
